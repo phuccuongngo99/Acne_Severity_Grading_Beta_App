@@ -1,4 +1,4 @@
-# Acne_Severity_Grading_Beta_App
+# Acne Severity Grading Beta App
 
 This is the implementation of MAGNet: MAGNet: Mobile Acne-severity Grading with Residual Convolutional Network [(link)](https://drive.google.com/file/d/1TqLUTSueG2SC9RGvpu9dc2qc5u0fEK-f/view?usp=sharing) with native inference on mobile CPU.
 
