@@ -6,10 +6,11 @@ This is the implementation of MAGNet: MAGNet: Mobile Acne-severity Grading with 
 Download ```Acne_Severity_Grading_beta.apk``` and install on Android devices.
 
 ## Classification results:
+MAGNet TF Lite Model ```MAGNet.tflite```.
 3 grades output based on acne severity of patients:
-Grade 0: Clean
-Grade 1: Mild
-Grade 2: Severe
+Grade 0: Clean.
+Grade 1: Mild.
+Grade 2: Severe.
 
 ## Acknowledgement:
 Singapore National Skin Center (NSC) for provision of data and acne annotation training.
