@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">camera_kit</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="info_1">1) What causes acne?\n
+Acne is a condition which develops in and around the hair follicles and their oil producing glands called the sebaceous glands. Although we have these glands all over the surface of our body, it is only on the face, chest and back that acne develops. The oil produced by sebaceous glands is called sebum and it begins to appear soon after puberty. Acne usually starts during teenage years but can also begin in the twenties or thirties.\n
+There are several causes of acne. One theory is that when the male hormone level increases during puberty, the skin of the acne prone person reacts to the hormone to produce excess sebum. No one knows why some people’s oil glands produce more sebum than others, but when this happens, the oil glands become blocked. This leads to the formation of comedones – the blackheads and whiteheads. In some people, the acne may not progress beyond this stage, but usually it does.\n
+Bacteria in the deeper part of the hair follicle and beneath the sebum blockage release chemicals which act upon the sebum and break it down to release other chemicals. These chemicals make the skin around the hair follicle red and inflamed, resulting in a pimple. In bad cases, pus may develop within the pimple. Large, painful swellings called nodules and cysts may develop and result in scarring after the condition has eventually settled. These scars can either be depressed and sunken, or bulging and hard.</string>
+    <string name="info_2">2) What should I do when I have acne?\n
+Consult your dermatologist early. Waiting to \'outgrow\' acne can be a serious mistake, since medical treatment can improve your appearance and prevent development of severe scars.</string>
+    <string-array name="info_array">
+        <item>1) What causes acne?\n
+Acne is a condition which develops in and around the hair follicles and their oil producing glands called the sebaceous glands. Although we have these glands all over the surface of our body, it is only on the face, chest and back that acne develops. The oil produced by sebaceous glands is called sebum and it begins to appear soon after puberty. Acne usually starts during teenage years but can also begin in the twenties or thirties.\n
+There are several causes of acne. One theory is that when the male hormone level increases during puberty, the skin of the acne prone person reacts to the hormone to produce excess sebum. No one knows why some people’s oil glands produce more sebum than others, but when this happens, the oil glands become blocked. This leads to the formation of comedones – the blackheads and whiteheads. In some people, the acne may not progress beyond this stage, but usually it does.\n
+Bacteria in the deeper part of the hair follicle and beneath the sebum blockage release chemicals which act upon the sebum and break it down to release other chemicals. These chemicals make the skin around the hair follicle red and inflamed, resulting in a pimple. In bad cases, pus may develop within the pimple. Large, painful swellings called nodules and cysts may develop and result in scarring after the condition has eventually settled. These scars can either be depressed and sunken, or bulging and hard.</item>
+        <item>2) What should I do when I have acne?\n
+Consult your dermatologist early. Waiting to outgrow acne can be a serious mistake, since medical treatment can improve your appearance and prevent development of severe scars.</item>
+        <item>3) How is acne treated?\n
+a. Treatment applied to the skin\n
+Patients with mild acne usually respond well to topical treatments. It includes sulphur and resorcinol preparations (e.g. acne clear cream and lotion), benzoyl peroxide containing preparations, antibiotics (erythromycin and clindamycin gel and lotions) and vitamin A derived creams or gels (adapalene and tretinoin). Some lotions or creams may make the skin red or flaky but these side effects are usually temporary. Consult your dermatologist if the lotions or creams cause excessive redness or irritation.\n
+b. Oral treatment\n
+If your acne becomes worse and you have a lot of inflamed spots, topical treatment alone may not be adequate. Your dermatologist will probably prescribe antibiotics tablets, such as doxycyline, erythromycin, minocycline and cotrimoxazole. Whichever antibiotic you are prescribed, you will probably have to take it for at least a few months.\n
+c. For severe acne \n
+In very serious cases who do not respond to the above treatment, or in cases of severe nodulocystic acne, a tablet called isotretinoin may be given. This medication may give rise to side effects, the most serious being damage to the unborn baby if taken during pregnancy.​</item>
+        <item>4) Does diet cause or aggravate acne?\n
+The link between diet and acne is controversial but there is some evidence that a high glycaemic index diet (containing food that are rich in carbohydrates which cause a rapid sugar release) and excessive consumption of dairy products may be related to acne. In the majority of cases, no dietary restrictions are required\n</item>
+        <item>5) How should I wash my face?\n
+Remove surface oil from the face by washing with a mild soap and water or with a mild, medicated cleanser. Do not use harsh cleansers. Remember, you cannot wash acne away.</item>
+        <item>6) Does squeezing the pimples affect the outcome?\n
+It is usually advisable not to squeeze the pimples, especially if they are deep. Superficial whitish or yellowish pimples may be gently squeezed to remove the purulent content. If excessive pressure is required to remove the content, then pimples should not be squeezed. Otherwise the irritant material may be squeezed further into the surrounding skin and produce pimples which may be bigger, last longer and result in scarring.</item>
+        <item>7) Can I use cosmetics when I have acne?\n
+It is possible that very greasy make-up worsens acne. Use water-soluble oil-free cosmetics that do not promote the formation of comedones or pimples. Ask for assistance when you are selecting cosmetics.</item>
+    </string-array>
+
+</resources>

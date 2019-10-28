@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_grading"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Grading" />
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="History"/>
+        <item
+            android:id="@+id/nav_information"
+            android:icon="@drawable/ic_menu_info"
+            android:title="Information" />
+        <item
+            android:id="@+id/nav_booking"
+            android:icon="@drawable/ic_menu_book"
+            android:title="Booking" />
+    </group>
+</menu>
